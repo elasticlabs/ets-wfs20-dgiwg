@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.opengis.cite</groupId>
   <artifactId>ets-wfs20-dgiwg</artifactId>
-  <version>0.5-SNAPSHOT</version>
+  <version>0.4</version>
   <name>DGIWG WFS 2.0 Conformance Test Suite</name>
   <description>Conformance test suite for the DGIWG WFS 2.0 profile (DGIWG-122).</description>
 
@@ -158,7 +158,7 @@
     <dependency>
       <groupId>org.opengis.cite</groupId>
       <artifactId>ets-wfs20</artifactId>
-      <version>1.28</version>
+      <version>1.34</version>
     </dependency>
     <!-- test -->
     <dependency>
