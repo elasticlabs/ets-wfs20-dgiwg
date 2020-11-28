@@ -9,7 +9,7 @@ To ensure proper build with TEAMEngine 5.4 and verisonning aligment with other D
 <artifactId>ets-wfs20-dgiwg</artifactId>
 <version>0.4</version>
 ```
-### Setup consistent versioning with `ets-wfs20` parent ETS to ensure proper build. 
+### Setup consistent versioning with `ets-wfs20` parent ETS in [our TEAMEngine dockerized environment](https://github.com/elasticlabs/teamengine-compose) to ensure proper build. 
 ```
 <dependency>
   <groupId>org.opengis.cite</groupId>
